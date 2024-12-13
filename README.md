@@ -34,4 +34,20 @@ This project focuses on analyzing customer segmentation using various KPIs and d
 
 1. Download the files or clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/customer-segmentation-analysis.git  
+   git clone https://github.com/yourusername/customer-segmentation-analysis.git
+
+
+2.Open the Power BI dashboard (not included here but referenced in the presentation).
+3.Explore the insights through the presentations or the video walkthrough.
+
+## License
+This project is licensed under the MIT License.
+
+## Contributors
+- Sabareeshwaran Sureshkumar
+- Afzal Ahmed
+- Chinmay Singole
+- Chahna Monica
+- Pooja Bhoomigha
+- Taneeru Anilkumar
+
